@@ -1,1 +1,2 @@
 # dsa
+[Greedy](./Greedy/Greedy)
