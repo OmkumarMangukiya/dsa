@@ -1,2 +1,2 @@
 # dsa
-[Greedy](./Greedy/Greedy)
+[Greedy](./Greedy/Greedy.md)

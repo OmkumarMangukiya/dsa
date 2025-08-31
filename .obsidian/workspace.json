@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy/Candy(Hard).md",
+                "file": "Greedy/Greedy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Candy(Hard)"
+              "title": "Greedy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greedy/Candy(Hard).md",
+                "file": "Greedy/Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Candy(Hard)"
+              "title": "Backlinks for Greedy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Greedy/Candy(Hard).md",
+                "file": "Greedy/Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Candy(Hard)"
+              "title": "Outgoing links from Greedy"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Greedy/Candy(Hard).md",
+                "file": "Greedy/Greedy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Candy(Hard)"
+              "title": "Outline of Greedy"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "88148123c8af8580",
   "lastOpenFiles": [
+    "README.md",
     "Greedy/Greedy.md",
     "Greedy/Candy(Hard).md",
-    "README.md",
     "Greedy"
   ]
 }
