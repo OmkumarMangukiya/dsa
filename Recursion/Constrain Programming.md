@@ -1,0 +1,1 @@
+Here we put contrain after every placement. For example in Sudoku when we put a number we put a constrain that no same number should be in the column , row or box. This way we reduce number of combinations

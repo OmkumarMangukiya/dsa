@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy/Greedy.md",
+                "file": "Greedy/Candy(Hard).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greedy"
+              "title": "Candy(Hard)"
             }
           }
         ]
@@ -171,9 +171,16 @@
   },
   "active": "88148123c8af8580",
   "lastOpenFiles": [
-    "README.md",
     "Greedy/Greedy.md",
+    "README.md",
+    "Recursion/Recursion.md",
+    "Recursion/Sudoku_Solver.md",
     "Greedy/Candy(Hard).md",
+    "Recursion/Constrain Programming.md",
+    "General/Constrain Programming.md",
+    "Untitled.md",
+    "Recursion",
+    "General",
     "Greedy"
   ]
 }
