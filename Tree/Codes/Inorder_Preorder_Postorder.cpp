@@ -111,6 +111,7 @@ void postorderIterative(node* root) {
         s2.push(current);
 
         // Push left and right children of removed item to s1
+        //to get the Root -> Right -> Left order, we push its children onto the stack in a specific sequence: left child first, then right child. Since a stack is LIFO (Last-In-First-Out), the right child will be processed before the left child.
         if (current->left) {
             s1.push(current->left);
         }
@@ -124,7 +125,41 @@ void postorderIterative(node* root) {
         s2.pop();
     }
 }
+void postorderIterativeOneStack(node* root) {
+    if (root == nullptr) {
+        return;
+    }
 
+    stack<node*> st;
+    node* temp = root;
+
+    // last visited is taken so that we know that we have seen this node and below it so we can skip the subtree
+    node* lastVisisted = nullptr;
+
+    while (temp != nullptr || !st.empty()) {
+        // go to the left most leaf
+        if (temp != nullptr) {
+            st.push(temp);
+            temp = temp->left;
+        } else {
+            // get the node which is at the top
+            node* peekNode = st.top();
+
+            // now I need to check if we have visited the right node if its exist
+            if (peekNode->right != nullptr && lastVisisted != peekNode->right) {
+                // visit this subtree because it's not visited
+                temp = peekNode->right;
+            } else {
+                // this means that either the right node doesn't exist or we have visted it then we can just skip it
+                cout << peekNode->data << " ";
+                // update the lastVisited
+                lastVisisted = peekNode;
+                // now pop as we are done with this
+                st.pop();
+            }
+        }
+    }
+}
 int main()
 {
 	node *root = nullptr;
