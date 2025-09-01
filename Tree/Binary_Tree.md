@@ -1,5 +1,5 @@
 - Code
-[Implentation Traversal](./Codes/Binary_Tree_Implementation_Traversal.cpp)
+	[Implentation Traversal](./Codes/Binary_Tree_Implementation_Traversal.cpp)
 ### Implementation
 ```cpp
 class node{
