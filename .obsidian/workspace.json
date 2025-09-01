@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Binary_Tree.md",
+                "file": "Greedy/Candy(Hard).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary_Tree"
+              "title": "Candy(Hard)"
             }
           }
         ]
@@ -171,21 +171,21 @@
   },
   "active": "5933183e1f7a4021",
   "lastOpenFiles": [
+    "Greedy/Greedy.md",
+    "Recursion/Recursion.md",
+    "Recursion/Sudoku_Solver.md",
+    "Tree/Binary_Tree.md",
+    "README.md",
+    "Tree/Tree.md",
     "Tree/Inorder_Preorder_Postorder.md",
     "Tree/Codes/Inorder_Preorder_Postorder",
-    "Tree/Tree.md",
-    "Tree/Binary_Tree.md",
     "Tree/Codes/Inorder_Preorder_Postorder.cpp",
     "Tree/Codes/Binary_Tree_Implementation_Traversal.cpp",
     "Tree/Codes/Binary_Tree_Implementation",
     "Tree/Codes/Binary_Tree_Implementation.cpp",
     "Tree/Codes",
-    "README.md",
     "Greedy/Candy(Hard).md",
     "Tree",
-    "Greedy/Greedy.md",
-    "Recursion/Recursion.md",
-    "Recursion/Sudoku_Solver.md",
     "Recursion/Constrain Programming.md",
     "General/Constrain Programming.md",
     "Untitled.md",
