@@ -66,7 +66,7 @@ void preorderIterative(node* root) {
         s.pop();
         cout << current->data << " ";
 
-        // Push right child first so that left child is processed first33
+        // Push right child first so that left child is processed first
         if (current->right) {
             s.push(current->right);
         }
