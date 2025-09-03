@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8fab47139633b77",
+        "id": "edb24bdcf785d0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "5933183e1f7a4021",
+            "id": "9f78dccfbf5b2d22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/Binary_Tree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Binary_Tree"
+              "title": "New tab"
             }
           }
         ]
@@ -169,15 +165,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5933183e1f7a4021",
+  "active": "9f78dccfbf5b2d22",
   "lastOpenFiles": [
-    "Tree/Tree.md",
+    "Recursion/Sudoku_Solver.md",
+    "Greedy/Candy(Hard).md",
     "Tree/Inorder_Preorder_Postorder.md",
     "Tree/Binary_Tree.md",
+    "Tree/Tree.md",
     "Recursion/Recursion.md",
-    "Greedy/Candy(Hard).md",
     "Greedy/Greedy.md",
-    "Recursion/Sudoku_Solver.md",
     "README.md",
     "Tree/Codes/Inorder_Preorder_Postorder",
     "Tree/Codes/Inorder_Preorder_Postorder.cpp",
