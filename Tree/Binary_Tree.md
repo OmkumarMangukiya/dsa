@@ -394,3 +394,37 @@ bool isSumTree(Node* root) {
         return SumTree(root).first;
     }
 ```
+
+### Max Path Sum
+```cpp
+int findMaxPath(TreeNode* root, int& maxSum) {
+    if (root == nullptr) {
+        return 0;
+    }
+
+    // Get the best possible path sum from the left and right children
+    int leftPath = findMaxPath(root->left, maxSum);
+    int rightPath = findMaxPath(root->right, maxSum);
+    
+    // A path with a negative sum is not useful to its parent; treat it as 0
+    leftPath = max(0, leftPath);
+    rightPath = max(0, rightPath);
+    
+    // This is the path that forms an inverted 'V' at the current node.
+    // It's a candidate for the overall maximum, but it cannot be extended upwards.
+    int currentPathValue = root->val + leftPath + rightPath;
+
+    // Update the overall maximum sum if the path through the current node is better.
+    maxSum = max(maxSum, currentPathValue);
+    
+    // Return the best path that can be extended upwards to the parent.
+    // A path can only go up one side, not both.
+    return root->val + max(leftPath, rightPath);
+}
+
+int maxPathSum(TreeNode* root) {
+    int maxSum = INT_MIN;
+    findMaxPath(root, maxSum);
+    return maxSum;
+}
+```
