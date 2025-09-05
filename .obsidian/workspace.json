@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Binary_Tree.md",
+                "file": "Tree/Boundary Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary_Tree"
+              "title": "Boundary Traversal"
             }
           },
           {
@@ -185,16 +185,18 @@
   },
   "active": "9f78dccfbf5b2d22",
   "lastOpenFiles": [
-    "Tree/Tree.md",
     "Tree/Binary_Tree.md",
+    "Tree/Boundary Traversal.md",
+    "Tree/Tree.md",
+    "Tree/ZigZag.md",
     "Tree/Inorder_Preorder_Postorder.md",
+    "Recursion/Recursion.md",
     "Recursion/Sudoku_Solver.md",
     "Recursion/Power Set.md",
+    "Greedy/Candy(Hard).md",
+    "Greedy/Greedy.md",
     "QuestionOfTheDay/04092025.cpp",
     "Recursion/Constrain Programming.md",
-    "Greedy/Candy(Hard).md",
-    "Recursion/Recursion.md",
-    "Greedy/Greedy.md",
     "README.md",
     "Tree/Codes/Inorder_Preorder_Postorder",
     "Tree/Codes/Inorder_Preorder_Postorder.cpp",
