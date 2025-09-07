@@ -2,6 +2,7 @@
 	[Implentation Traversal](./Codes/Binary_Tree_Implementation_Traversal.cpp)
 	[ZigZag](./ZigZag.md)
 	[Boundary Traversal](./Boundary Traversal.md)
+	[Vertical Order](./Vertical Order Traversal.md)
 ### Implementation
 ```cpp
 class node{

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Boundary Traversal.md",
+                "file": "Tree/Vertical Order Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boundary Traversal"
+              "title": "Vertical Order Traversal"
             }
           },
           {
@@ -185,11 +185,12 @@
   },
   "active": "9f78dccfbf5b2d22",
   "lastOpenFiles": [
-    "Tree/Binary_Tree.md",
-    "Tree/Boundary Traversal.md",
-    "Tree/Tree.md",
     "Tree/ZigZag.md",
     "Tree/Inorder_Preorder_Postorder.md",
+    "Tree/Binary_Tree.md",
+    "Tree/Tree.md",
+    "Tree/Vertical Order Traversal.md",
+    "Tree/Boundary Traversal.md",
     "Recursion/Recursion.md",
     "Recursion/Sudoku_Solver.md",
     "Recursion/Power Set.md",
