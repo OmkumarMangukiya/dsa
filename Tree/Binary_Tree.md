@@ -7,7 +7,8 @@
 	[Bottom View](./Bottom_View.md)
 	[Right View](./Right_View.md)
 	[CheckSymmetric](./Codes/Symmetric_Tree.cpp)
-	[LCA - Lowest Common Ancestor](./LCA)
+	[LCA - Lowest Common Ancestor](./LCA.md)
+	[Max Width of Tree](./Max_Width_of_Tree.md)
 ### Implementation
 ```cpp
 class node{
