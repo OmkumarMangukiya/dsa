@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Binary_Tree"
             }
+          },
+          {
+            "id": "8d3531c6154d2689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree/LCA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LCA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +198,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd99eef01d56dba4",
+  "active": "8d3531c6154d2689",
   "lastOpenFiles": [
+    "Tree/Binary_Tree.md",
+    "Tree/LCA.md",
     "Tree/Codes/Symmetric_Tree",
     "Tree/Tree.md",
     "Tree/Inorder_Preorder_Postorder.md",
     "Tree/Right_View.md",
-    "Tree/Binary_Tree.md",
     "Tree/Bottom View.md",
     "Tree/Top_View.md",
     "Tree/Boundary Traversal.md",
@@ -213,7 +228,6 @@
     "Tree",
     "General/Constrain Programming.md",
     "Untitled.md",
-    "Recursion",
-    "General"
+    "Recursion"
   ]
 }
