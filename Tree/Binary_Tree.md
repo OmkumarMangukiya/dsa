@@ -9,7 +9,7 @@
 	[CheckSymmetric](./Codes/Symmetric_Tree.cpp)
 	[LCA - Lowest Common Ancestor](./LCA.md)
 	[Max Width of Tree](./Max_Width_of_Tree.md)
-	[Nodes with K distance](./Nodes_with_K_distance.md)
+	[Nodes with K distance & Nodes at distance k from leaf](./Nodes_with_K_distance.md)
 ### Implementation
 ```cpp
 class node{

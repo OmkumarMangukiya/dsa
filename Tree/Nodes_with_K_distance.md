@@ -1,3 +1,4 @@
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solutions/7184158/c-bfs-solution-map-child-to-parent-level-order-from-target-clean-easy-beats-100/
 ```cpp
 class Solution {
 private:
@@ -64,4 +65,80 @@ public:
         return ret;
     }
 };
+```
+
+# Count the nodes at distance K from leaf
+
+Given a binary tree with **n** nodes and a non-negative integer **k**, the task is to count the number of **special nodes**. A node is considered **special** if there exists at least one leaf in its subtree such that the distance between the node and leaf is exactly **k**.
+
+## Approach 1: Brute Force
+- For every node check if there is a leaf node at k distance.
+
+## Approach 2:
+- Store all root to leaf path then pick all n-k-1 nodes from each if n>k.
+### Store all root to leaf path
+```cpp
+class Solution {
+  private:
+    void rootToLeaf(Node* root , vector<vector<Node*>>& path , vector<Node*>& current){
+        if(root==nullptr){
+            return;
+        }
+         current.push_back(root);
+        if(root->left == nullptr && root->right==nullptr){
+            path.push_back(current);
+        }
+       
+        rootToLeaf(root->left , path , current);
+        rootToLeaf(root->right ,path , current);
+        current.pop_back();
+    }
+  public:
+  
+    int kthFromLeaf(Node* root, int k) {
+        // code here.
+        vector<vector<Node*>> path;
+        vector<Node*> current;
+        set<Node*> res;
+        rootToLeaf(root, path , current);
+        for(auto paths : path){
+            if(paths.size()>k){
+                res.insert(paths[paths.size()-k-1]);
+            }
+        }
+        return res.size();
+    }
+};
+```
+### TC : O(N)    SC:O(N* H)
+- In a tree there can be maximum N/2 leaf nodes hence for every N/2 leaf nodes we would at max travel to the top which gives use the O(N * H) space complexity.
+## Approach 3:
+- Here we will try to reduce space complexity
+- the idea would be - when we store the root to leaf why we are storing it instead we can just check if the current vector size is greater than k. If yes then we can get our node.
+```cpp
+private:
+    void rootToLeaf(Node* root , vector<Node*>& current, set<Node*>& res , int k){
+        if(root==nullptr){
+            return;
+        }
+         current.push_back(root);
+        if(root->left == nullptr && root->right==nullptr){
+            if(current.size() >  k){
+                res.insert(current[current.size()-k-1]);
+            }
+        }
+       
+        rootToLeaf(root->left  , current, res, k);
+        rootToLeaf(root->right  , current , res , k);
+        current.pop_back();
+    }
+  public:
+  
+    int kthFromLeaf(Node* root, int k) {
+        // code here.
+        vector<Node*> current;
+        set<Node*> res;
+        rootToLeaf(root , current, res , k);
+        return res.size();
+    }
 ```

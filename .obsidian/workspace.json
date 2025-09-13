@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Binary_Tree.md",
+                "file": "Tree/Nodes_with_K_distance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary_Tree"
+              "title": "Nodes_with_K_distance"
             }
           }
         ],
@@ -200,18 +200,18 @@
   },
   "active": "8d3531c6154d2689",
   "lastOpenFiles": [
+    "Tree/Right_View.md",
+    "Tree/Bottom View.md",
+    "Tree/Inorder_Preorder_Postorder.md",
     "Tree/Nodes_with_K_distance.md",
+    "Tree/Vertical_Order_Traversal.md",
+    "Tree/Tree.md",
     "Tree/Binary_Tree.md",
     "Tree/Max_Width_of_Tree.md",
     "Tree/LCA.md",
     "Tree/Codes/Symmetric_Tree",
-    "Tree/Tree.md",
-    "Tree/Inorder_Preorder_Postorder.md",
-    "Tree/Right_View.md",
-    "Tree/Bottom View.md",
     "Tree/Top_View.md",
     "Tree/Boundary Traversal.md",
-    "Tree/Vertical_Order_Traversal.md",
     "Tree/ZigZag.md",
     "Recursion/Recursion.md",
     "Recursion/Sudoku_Solver.md",
