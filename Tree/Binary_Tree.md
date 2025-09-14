@@ -10,6 +10,10 @@
 	[LCA - Lowest Common Ancestor](./LCA.md)
 	[Max Width of Tree](./Max_Width_of_Tree.md)
 	[Nodes with K distance & Nodes at distance k from leaf](./Nodes_with_K_distance.md)
+	[Construct Binary Tree](./Construct_Binary_Tree.md)
+### Notes
+- If you are given Post Order and Pre Order than you cannot constuct a unique binary tree. You must atleast have In Order to get it.
+- 
 ### Implementation
 ```cpp
 class node{
