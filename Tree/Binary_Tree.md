@@ -1,21 +1,20 @@
-- Code
-	[Implentation Traversal](./Codes/Binary_Tree_Implementation_Traversal.cpp)
-	[ZigZag](./ZigZag.md)
-	[Boundary Traversal](./Boundary Traversal.md)
-	[Vertical Order](./Vertical_Order_Traversal.md)
-	[Top View](./Top_View.md)
-	[Bottom View](./Bottom_View.md)
-	[Right View](./Right_View.md)
-	[CheckSymmetric](./Codes/Symmetric_Tree.cpp)
-	[LCA - Lowest Common Ancestor](./LCA.md)
-	[Max Width of Tree](./Max_Width_of_Tree.md)
-	[Nodes with K distance & Nodes at distance k from leaf](./Nodes_with_K_distance.md)
-	[Construct Binary Tree](./Construct_Binary_Tree.md)
-	[Serialize and Deserialize Binary Tree](Serialize_and_Deserialize_Binary_Tree.md)
-	[Morris Traversal](Morris_Traversal.md)
+- Code  
+	[Implentation Traversal](./Codes/Binary_Tree_Implementation_Traversal.cpp)  
+	[ZigZag](./ZigZag.md)  
+	[Boundary Traversal](./Boundary_Traversal.md)  
+	[Vertical Order](./Vertical_Order_Traversal.md)  
+	[Top View](./Top_View.md)  
+	[Bottom View](./Bottom_View.md)  
+	[Right View](./Right_View.md)  
+	[CheckSymmetric](./Codes/Symmetric_Tree.cpp)  
+	[LCA - Lowest Common Ancestor](./LCA.md)  
+	[Max Width of Tree](./Max_Width_of_Tree.md)  
+	[Nodes with K distance & Nodes at distance k from leaf](./Nodes_with_K_distance.md)  
+	[Construct Binary Tree](./Construct_Binary_Tree.md)  
+	[Serialize and Deserialize Binary Tree](Serialize_and_Deserialize_Binary_Tree.md)  
+	[Morris Traversal](Morris_Traversal.md)  
 ### Notes
 - If you are given Post Order and Pre Order than you cannot constuct a unique binary tree. You must atleast have In Order to get it.
-- 
 ### Implementation
 ```cpp
 class node{
