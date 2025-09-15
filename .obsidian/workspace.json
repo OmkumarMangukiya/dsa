@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f78dccfbf5b2d22",
+            "id": "fdea66930c6ce7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Right_View.md",
+                "file": "Tree/Morris_Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Right_View"
-            }
-          },
-          {
-            "id": "dd99eef01d56dba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/Binary_Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary_Tree"
-            }
-          },
-          {
-            "id": "8d3531c6154d2689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/Construct_Binary_Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Construct_Binary_Tree"
+              "title": "Morris_Traversal"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d3531c6154d2689",
+  "active": "fdea66930c6ce7cf",
   "lastOpenFiles": [
+    "QuestionOfTheDay/15092025.cpp",
+    "Tree/Binary_Tree.md",
+    "Tree/Morris_Traversal.md",
+    "Tree/Serialize_and_Deserialize_Binary_Tree.md",
+    "Tree/Construct_Binary_Tree.md",
     "QuestionOfTheDay/14092025.cpp",
     "sc/Pasted image 20250913224532.png",
-    "Tree/Construct_Binary_Tree.md",
     "sc",
-    "Tree/Binary_Tree.md",
     "Tree/Tree.md",
     "Tree/Nodes_with_K_distance.md",
     "Tree/Right_View.md",
@@ -231,7 +205,6 @@
     "Tree/Codes/Binary_Tree_Implementation",
     "Tree/Codes/Binary_Tree_Implementation.cpp",
     "Tree/Codes",
-    "Tree",
     "General/Constrain Programming.md",
     "Untitled.md"
   ]
