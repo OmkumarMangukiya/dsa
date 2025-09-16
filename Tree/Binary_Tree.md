@@ -13,6 +13,7 @@
 	[Construct Binary Tree](./Construct_Binary_Tree.md)  
 	[Serialize and Deserialize Binary Tree](Serialize_and_Deserialize_Binary_Tree.md)  
 	[Morris Traversal](Morris_Traversal.md)  
+	[Flatten BT](Faltten_BT.md)  
 ### Notes
 - If you are given Post Order and Pre Order than you cannot constuct a unique binary tree. You must atleast have In Order to get it.
 ### Implementation
