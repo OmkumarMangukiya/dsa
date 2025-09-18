@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Faltten_BT.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faltten_BT"
+              "title": "README"
+            }
+          },
+          {
+            "id": "cf174ab402f05237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree/Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree"
+            }
+          },
+          {
+            "id": "1a98668f21bf9125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree/Delete_Nodes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delete_Nodes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,10 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdea66930c6ce7cf",
+  "active": "1a98668f21bf9125",
   "lastOpenFiles": [
     "Tree/Binary_Tree.md",
+    "Tree/Delete_Nodes.md",
+    "Tree/Check_Completness.md",
+    "Tree/Tree.md",
+    "Tree/Top_View.md",
     "Tree/Faltten_BT.md",
+    "Vector/Vector.md",
+    "README.md",
+    "Vector",
     "Tree/Bottom_View.md",
     "Tree/Boundary_Traversal.md",
     "Tree/Morris_Traversal.md",
@@ -182,7 +218,6 @@
     "QuestionOfTheDay/14092025.cpp",
     "sc/Pasted image 20250913224532.png",
     "sc",
-    "Tree/Tree.md",
     "Tree/Nodes_with_K_distance.md",
     "Tree/Right_View.md",
     "Tree/Inorder_Preorder_Postorder.md",
@@ -190,7 +225,6 @@
     "Tree/Max_Width_of_Tree.md",
     "Tree/LCA.md",
     "Tree/Codes/Symmetric_Tree",
-    "Tree/Top_View.md",
     "Tree/ZigZag.md",
     "Recursion/Recursion.md",
     "Recursion/Sudoku_Solver.md",
@@ -199,13 +233,9 @@
     "Greedy/Greedy.md",
     "QuestionOfTheDay/04092025.cpp",
     "Recursion/Constrain Programming.md",
-    "README.md",
     "Tree/Codes/Inorder_Preorder_Postorder",
     "Tree/Codes/Inorder_Preorder_Postorder.cpp",
     "Tree/Codes/Binary_Tree_Implementation_Traversal.cpp",
-    "Tree/Codes/Binary_Tree_Implementation",
-    "Tree/Codes/Binary_Tree_Implementation.cpp",
-    "General/Constrain Programming.md",
-    "Untitled.md"
+    "Tree/Codes/Binary_Tree_Implementation"
   ]
 }
