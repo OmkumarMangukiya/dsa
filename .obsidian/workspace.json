@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "edb24bdcf785d0fd",
+        "id": "9d0023c5a9b3d9aa",
         "type": "tabs",
         "children": [
           {
-            "id": "fdea66930c6ce7cf",
+            "id": "dab46132a40943ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tree/Binary_Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "cf174ab402f05237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tree"
-            }
-          },
-          {
-            "id": "1a98668f21bf9125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/Delete_Nodes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Delete_Nodes"
+              "title": "Binary_Tree"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greedy/Greedy.md",
+                "file": "Tree/Delete_Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Greedy"
+              "title": "Backlinks for Delete_Nodes"
             }
           },
           {
@@ -179,12 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Greedy"
             }
+          },
+          {
+            "id": "43ec33374dd5b9b4",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,47 +177,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1a98668f21bf9125",
+  "active": "dab46132a40943ec",
   "lastOpenFiles": [
+    "QuestionOfTheDay/04102025.cpp",
+    "QuestionOfTheDay/03102025.cpp",
+    "QuestionOfTheDay/02102025.cpp",
+    "QuestionOfTheDay/01102025.cpp",
+    "QuestionOfTheDay/30092025.cpp",
+    "QuestionOfTheDay/29092025.cpp",
+    "Tree/ZigZag.md",
     "Tree/Binary_Tree.md",
-    "Tree/Delete_Nodes.md",
-    "Tree/Check_Completness.md",
+    "Tree/Bottom_View.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "sc/Pasted image 20250913224532.png",
+    "README.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Tree/Tree.md",
+    "2025-10-04.md",
+    "Tree/Delete_Nodes.md",
+    "Untitled.base",
+    "Tree/Check_Completness.md",
     "Tree/Top_View.md",
     "Tree/Faltten_BT.md",
     "Vector/Vector.md",
-    "README.md",
     "Vector",
-    "Tree/Bottom_View.md",
     "Tree/Boundary_Traversal.md",
-    "Tree/Morris_Traversal.md",
-    "QuestionOfTheDay/15092025.cpp",
-    "Tree/Serialize_and_Deserialize_Binary_Tree.md",
-    "Tree/Construct_Binary_Tree.md",
-    "QuestionOfTheDay/14092025.cpp",
-    "sc/Pasted image 20250913224532.png",
-    "sc",
-    "Tree/Nodes_with_K_distance.md",
-    "Tree/Right_View.md",
-    "Tree/Inorder_Preorder_Postorder.md",
-    "Tree/Vertical_Order_Traversal.md",
-    "Tree/Max_Width_of_Tree.md",
-    "Tree/LCA.md",
-    "Tree/Codes/Symmetric_Tree",
-    "Tree/ZigZag.md",
-    "Recursion/Recursion.md",
-    "Recursion/Sudoku_Solver.md",
-    "Recursion/Power Set.md",
-    "Greedy/Candy(Hard).md",
-    "Greedy/Greedy.md",
-    "QuestionOfTheDay/04092025.cpp",
-    "Recursion/Constrain Programming.md",
-    "Tree/Codes/Inorder_Preorder_Postorder",
-    "Tree/Codes/Inorder_Preorder_Postorder.cpp",
-    "Tree/Codes/Binary_Tree_Implementation_Traversal.cpp",
-    "Tree/Codes/Binary_Tree_Implementation"
+    "QuestionOfTheDay/15092025.cpp"
   ]
 }
