@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Binary_Tree.md",
+                "file": "Tree/BST/Ceil_Floor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary_Tree"
+              "title": "Ceil_Floor"
             }
           }
         ]
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 601.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,16 @@
   },
   "active": "dab46132a40943ec",
   "lastOpenFiles": [
+    "Tree/BST/Search_in_BST.md",
+    "Tree/BST/Ceil_Floor.md",
+    "Tree/Binary_Search_Tree.md",
+    "Vector/Vector.md",
+    "README.md",
+    "Tree/Binary_Tree.md",
+    "Tree/BST",
+    "Tree/Tree.md",
+    "Tree/Boundary_Traversal.md",
+    "Tree/Faltten_BT.md",
     "QuestionOfTheDay/04102025.cpp",
     "QuestionOfTheDay/03102025.cpp",
     "QuestionOfTheDay/02102025.cpp",
@@ -190,7 +199,6 @@
     "QuestionOfTheDay/30092025.cpp",
     "QuestionOfTheDay/29092025.cpp",
     "Tree/ZigZag.md",
-    "Tree/Binary_Tree.md",
     "Tree/Bottom_View.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
@@ -198,7 +206,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "sc/Pasted image 20250913224532.png",
-    "README.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -209,16 +216,8 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Tree/Tree.md",
     "2025-10-04.md",
     "Tree/Delete_Nodes.md",
-    "Untitled.base",
-    "Tree/Check_Completness.md",
-    "Tree/Top_View.md",
-    "Tree/Faltten_BT.md",
-    "Vector/Vector.md",
-    "Vector",
-    "Tree/Boundary_Traversal.md",
-    "QuestionOfTheDay/15092025.cpp"
+    "Untitled.base"
   ]
 }

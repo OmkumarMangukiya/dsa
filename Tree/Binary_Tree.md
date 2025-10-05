@@ -172,15 +172,15 @@ int heightIterative(TreeNode* root) {
         return 0;
     }
 
-    std::queue<TreeNode*> q;
+    queue<TreeNode*> q;
     q.push(root);
     int height = 0;
 
     while (!q.empty()) {
-        // Get the number of nodes at the current level
+        //  number of nodes at the current level
         int levelSize = q.size();
         
-        // Process all nodes of the current level
+        // process all nodes of the current level
         for (int i = 0; i < levelSize; ++i) {
             TreeNode* currentNode = q.front();
             q.pop();
@@ -192,7 +192,7 @@ int heightIterative(TreeNode* root) {
                 q.push(currentNode->right);
             }
         }
-        // After processing a full level, increment the height
+        // after processing a level , increment the height
         height++;
     }
     return height;
