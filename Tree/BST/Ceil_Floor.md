@@ -38,3 +38,6 @@ int floor(Node* root, int x) {
         return floor;
     }
 ```
+
+
+### TC : O(N)                            SC : O(1)

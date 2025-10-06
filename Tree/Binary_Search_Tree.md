@@ -5,9 +5,9 @@
 ### Questions
 
 [Search in Binary Tree](./BST/Search_in_BST.md)
-
 [Ceil_Floor](./BST/Ceil_Floor.md)
-
+[Insert Element in BST](./BST/Insert_into_BST.md)
+[Delete a Node in BST](./BST/Delete_Node_BST.md)
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/BST/Ceil_Floor.md",
+                "file": "Tree/BST/Delete_Node_BST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ceil_Floor"
+              "title": "Delete_Node_BST"
             }
           }
         ]
@@ -182,9 +182,12 @@
   },
   "active": "dab46132a40943ec",
   "lastOpenFiles": [
-    "Tree/BST/Search_in_BST.md",
-    "Tree/BST/Ceil_Floor.md",
+    "Tree/BST/Insert_into_BST.md",
+    "Tree/BST/Delete_Node_BST.md",
     "Tree/Binary_Search_Tree.md",
+    "Tree/BST/Ceil_Floor.md",
+    "Tree/BST/Search_in_BST.md",
+    "BST",
     "Vector/Vector.md",
     "README.md",
     "Tree/Binary_Tree.md",
@@ -215,9 +218,6 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "2025-10-04.md",
-    "Tree/Delete_Nodes.md",
-    "Untitled.base"
+    "copilot"
   ]
 }
