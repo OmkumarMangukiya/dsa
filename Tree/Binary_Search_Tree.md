@@ -4,15 +4,15 @@
 
 ### Questions
 
-[Search in Binary Tree](./BST/Search_in_BST.md)
-[Ceil_Floor](./BST/Ceil_Floor.md)
-[Insert Element in BST](./BST/Insert_into_BST.md)
-[Delete a Node in BST](./BST/Delete_Node_BST.md)
-[Return Kth Largest/Smallest Node in BST](./BST/Return_Kth_Node_BST.md)
-[Validate BST](./BST/Validate_BST.md)
-[LCA](./BST/LCA.md)
-[BST_using_Preorder](./BST/BST_using_Preorder.md)
-⭐[Merge BSTs](./BST/Merge_BST.md) 
+[Search in Binary Tree](./BST/Search_in_BST.md)  
+[Ceil_Floor](./BST/Ceil_Floor.md)  
+[Insert Element in BST](./BST/Insert_into_BST.md)  
+[Delete a Node in BST](./BST/Delete_Node_BST.md)  
+[Return Kth Largest/Smallest Node in BST](./BST/Return_Kth_Node_BST.md)  
+[Validate BST](./BST/Validate_BST.md)  
+[LCA](./BST/LCA.md)  
+[BST_using_Preorder](./BST/BST_using_Preorder.md)  
+⭐[Merge BSTs](./BST/Merge_BST.md)   
 
 
 [⬅️ Back to Main Page](../README.md)
