@@ -10,7 +10,9 @@
 [Delete a Node in BST](./BST/Delete_Node_BST.md)
 [Return Kth Largest/Smallest Node in BST](./BST/Return_Kth_Node_BST.md)
 [Validate BST](./BST/Validate_BST.md)
-
+[LCA](./BST/LCA.md)
+[BST_using_Preorder](./BST/BST_using_Preorder.md)
+⭐[Merge BSTs](./BST/Merge_BST.md) 
 
 
 [⬅️ Back to Main Page](../README.md)
