@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/BST/Delete_Node_BST.md",
+                "file": "Tree/BST/Validate_BST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delete_Node_BST"
+              "title": "Validate_BST"
             }
           }
         ]
@@ -183,16 +183,19 @@
   "active": "dab46132a40943ec",
   "lastOpenFiles": [
     "Tree/BST/Insert_into_BST.md",
-    "Tree/BST/Delete_Node_BST.md",
-    "Tree/Binary_Search_Tree.md",
-    "Tree/BST/Ceil_Floor.md",
+    "Tree/BST/Return_Kth_Node_BST.md",
     "Tree/BST/Search_in_BST.md",
+    "Tree/BST/Validate_BST.md",
+    "Tree/Binary_Search_Tree.md",
+    "Tree/Binary_Tree.md",
+    "Tree/Inorder_Preorder_Postorder.md",
+    "Tree/Tree.md",
+    "Tree/BST/Delete_Node_BST.md",
+    "Tree/BST/Ceil_Floor.md",
     "BST",
     "Vector/Vector.md",
     "README.md",
-    "Tree/Binary_Tree.md",
     "Tree/BST",
-    "Tree/Tree.md",
     "Tree/Boundary_Traversal.md",
     "Tree/Faltten_BT.md",
     "QuestionOfTheDay/04102025.cpp",
@@ -214,9 +217,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]
