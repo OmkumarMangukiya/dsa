@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Binary_Search_Tree.md",
+                "file": "STL/STL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary_Search_Tree"
+              "title": "STL"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 601.5
+    "width": 566.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +180,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "590432d9462efefe",
+  "active": "96cadce104c1fa20",
   "lastOpenFiles": [
+    "README.md",
+    "STL/STL.md",
+    "STL",
+    "Vector/Vector.md",
+    "Tree/BST/Two_Sum.md",
+    "Tree/Binary_Search_Tree.md",
+    "Tree/BST/Search_in_BST.md",
+    "Tree/BST/Validate_BST.md",
     "Tree/BST/Merge_BST.md",
     "Tree/BST/Return_Kth_Node_BST.md",
-    "Tree/BST/Search_in_BST.md",
     "Tree/BST/Delete_Node_BST.md",
     "sc/Pasted image 20251007210748.png",
     "sc/Pasted image 20251007210719.png",
-    "Tree/Binary_Search_Tree.md",
     "Tree/Nodes_with_K_distance.md",
     "Tree/Morris_Traversal.md",
     "Tree/Max_Width_of_Tree.md",
@@ -196,7 +202,6 @@
     "Tree/Binary_Tree.md",
     "Tree/BST/BST_using_Preorder.md",
     "Tree/BST/LCA.md",
-    "Tree/BST/Validate_BST.md",
     "Tree/LCA.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
@@ -205,8 +210,6 @@
     "Tree/Tree.md",
     "Tree/BST/Ceil_Floor.md",
     "BST",
-    "Vector/Vector.md",
-    "README.md",
     "Tree/BST",
     "Tree/Boundary_Traversal.md",
     "Tree/Faltten_BT.md",
@@ -216,9 +219,7 @@
     "QuestionOfTheDay/01102025.cpp",
     "QuestionOfTheDay/30092025.cpp",
     "QuestionOfTheDay/29092025.cpp",
-    "Tree/ZigZag.md",
     "sc/Pasted image 20250913224532.png",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "copilot/copilot-custom-prompts"
   ]
 }

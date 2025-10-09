@@ -13,6 +13,7 @@
 [LCA](./BST/LCA.md)  
 [BST_using_Preorder](./BST/BST_using_Preorder.md)  
 ⭐[Merge BSTs](./BST/Merge_BST.md)   
+[Two Sum](./BST/Two_Sum.md)  
 
 
 [⬅️ Back to Main Page](../README.md)
