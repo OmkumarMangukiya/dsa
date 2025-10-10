@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STL/STL.md",
+                "file": "Tree/BST/Recover_BST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STL"
+              "title": "Recover_BST"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "96cadce104c1fa20",
+  "active": "590432d9462efefe",
   "lastOpenFiles": [
-    "README.md",
     "STL/STL.md",
+    "Tree/BST/Recover_BST.md",
+    "README.md",
     "STL",
     "Vector/Vector.md",
     "Tree/BST/Two_Sum.md",
@@ -212,7 +213,6 @@
     "BST",
     "Tree/BST",
     "Tree/Boundary_Traversal.md",
-    "Tree/Faltten_BT.md",
     "QuestionOfTheDay/04102025.cpp",
     "QuestionOfTheDay/03102025.cpp",
     "QuestionOfTheDay/02102025.cpp",
