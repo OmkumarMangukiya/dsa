@@ -14,6 +14,8 @@
 [BST_using_Preorder](./BST/BST_using_Preorder.md)  
 ⭐[Merge BSTs](./BST/Merge_BST.md)   
 [Two Sum](./BST/Two_Sum.md)  
+[Recover BST](./BST/Recover_BST.md)  
+⭐[Max Sum of BST in BT ](./BST/Max_BST_in_BT.md)
 
 
 [⬅️ Back to Main Page](../README.md)
